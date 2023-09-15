@@ -1,6 +1,7 @@
+<!--
 # Olá, me chamo Jean ! 
 ## Bem vindo ao meu perfil GitHub 👋
-<!--
+
 Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP.
 Estou no 4° semestre com a previsão de conclusão em 12/2023
 A Procura de uma primeira oportunidade na área.

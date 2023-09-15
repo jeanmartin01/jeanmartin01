@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Paulis
 
 Estou no 4° semestre com a previsão de conclusão em 12/2023.
 
-A Procura de uma primeira oportunidade na área
+A Procura de uma primeira oportunidade na área.
 
 Em meus repósitorios está um pouco do conhecimento adquiridos ao longo da minha jornada acadêmica.
 

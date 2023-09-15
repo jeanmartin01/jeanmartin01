@@ -1,5 +1,5 @@
 
-# Olá, me chamo Jean ! 
+# Olá, me chamo Jean! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP.
